@@ -1,0 +1,23 @@
+language de form
+language de requete
+language de design
+language de program
+
+fonction flecher 
+fonction recursive
+
+
+variable class fonction 
+
+"objet est une instance de class"
+
+
+condition et les boucle
+
+
+operateurs
+f12 jump to fonction
+
+npx expo install react-native-web react-dom @expo/metro-runtime
+
+
